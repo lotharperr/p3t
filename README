@@ -1,0 +1,11 @@
+# p3t
+portable throughput test tool
+
+Portable network throughput monitoring for LAN/VPN connections.
+
+Features:
+ -- TCP / UDP tests
+ -- Graphical user interface
+ -- Multiple sender / receiver simultaneously
+ -- Packets per block / block delay settings (to simulate different load)
+ -- Selectable paylod packet sizes
